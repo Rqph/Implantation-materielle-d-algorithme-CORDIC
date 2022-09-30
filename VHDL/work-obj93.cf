@@ -1,0 +1,7 @@
+v 4
+file . "tb.vhd" "e60f31f68a738790b99002c4d7b8c99a7bdfab52" "20220322155504.829":
+  entity tb at 1( 0) + 0 on 13;
+  architecture seq of tb at 8( 92) + 0 on 14;
+file . "cordic.vhd" "598eb017b8e15352d3fa1f188fb22ff925594e39" "20220322155504.805":
+  entity cordic at 1( 0) + 0 on 11;
+  architecture rtl of cordic at 16( 353) + 0 on 12;
